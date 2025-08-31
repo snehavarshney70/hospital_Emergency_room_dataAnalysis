@@ -35,7 +35,7 @@ This Excel dashboard provides a monthly summary and visual representation of:
 ## 📁 File Included
 
 - `hospital_dashboard.xlsx` — Excel file containing the full interactive dashboard with slicers, charts, and data.
-  `hospital dasboard.png` — Image preview of the dashboard layout and design
+  `screenshot(111).png` — Image preview of the dashboard layout and design
 ---
 
 ## 🛠️ Tools Used
